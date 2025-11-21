@@ -1,5 +1,5 @@
 ## Exp. No. 1
-**Date:**  
+**Date:**  18.08.2025
 
 ## FFLUORESCENT LAMP
 <img width="1544" height="944" alt="image" src="https://github.com/user-attachments/assets/f2c4ece6-23d7-4090-9712-417a76cdc0f7" />

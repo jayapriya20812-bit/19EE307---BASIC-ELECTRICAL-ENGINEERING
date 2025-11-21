@@ -1,5 +1,5 @@
 ## Exp. No. 3
-**Date:**  
+**Date:**  25.8.2025
 
 ## LOAD TEST ON SINGLE-PHASE TRANSFORMER
 

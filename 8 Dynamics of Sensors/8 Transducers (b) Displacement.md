@@ -1,5 +1,5 @@
 ## Exp. No. 8
-**Date:**  
+**Date:**  13.10.2025
 
 ## Dynamics of Sensors/Transducers (b) Displacement
 
@@ -84,13 +84,13 @@ Acting as a secondary transducer, it can be used for force, weight and pressure 
 
 
 # Circuit Diagram in software
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/9f5ade13-9fa3-492a-af61-166b8a8c521b" />
 
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
+<img width="1259" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a34fb93-2c88-4bd0-906c-e28858c8b346" />
 
 
 # Result
+<img width="1599" height="651" alt="image" src="https://github.com/user-attachments/assets/ee8c4a25-4ae2-432c-9a93-33fc59ce5ced" />

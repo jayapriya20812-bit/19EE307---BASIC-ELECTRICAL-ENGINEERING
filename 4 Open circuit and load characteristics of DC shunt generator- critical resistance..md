@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:**   15.09.2025
 
 ## Open circuit and load characteristics of DC shunt generator- critical resistance.
 

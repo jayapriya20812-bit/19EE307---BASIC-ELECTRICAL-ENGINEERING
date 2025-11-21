@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:**  
+**Date:**   22.09.2025
 
 ## Speed control of DC shunt motor.
 
